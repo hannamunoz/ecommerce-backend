@@ -16,7 +16,7 @@ You will first need to install all the required npm packages using the command l
 
 
 ## Usage
-[Click here for preview video](https://drive.google.com/file/d/1fz2JQuRmAyYv9KTCJJVukLJjAFjxvEsW/view?usp=sharing)
+[Click here for preview video](https://drive.google.com/file/d/1HNl9u6feliNpdftI8A1ZekOfrwwFxk4t/view?usp=sharing)
 
 # Author
 - Hanna Munoz
